@@ -5,6 +5,7 @@ namespace ConsoleApp1
     class Ulamek
     {
         // test
+        //ddd
 
         private int licznik { get; set; }
         private int mianownik { get; set; }
